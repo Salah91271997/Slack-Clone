@@ -2,7 +2,7 @@
 
 ## Description
 
-- Gmail-Clone, Implemented using React and Firebase
+- Slack-Clone, Implemented using React and Firebase
 - Back end ,React-Firebase for authentication with Google-auth, Fire Store database
 
 ## Features
